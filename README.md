@@ -1,6 +1,13 @@
-### Hi there 👋
+## Hi there 👋 my name is Kevin and I love data and process automation!
 
-<img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}"/>
+## About me
+#### I am a currently working towards Masters Degree in Computer Science and Information Technology. Currently I am working on a project automating data extraction.  
+#
+
+![image](	https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![](https://komarev.com/ghpvc/?username=watersk24&style=plastic)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=watersk24&show_icons=true)
 <!--
 **watersk24/watersk24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
